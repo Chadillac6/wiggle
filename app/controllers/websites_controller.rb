@@ -1,0 +1,1 @@
+class WebsitesController < LoggedUserController; end

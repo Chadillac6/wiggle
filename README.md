@@ -1,2 +1,0 @@
-# wiggle
-Wiggle project
